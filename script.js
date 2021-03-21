@@ -31,12 +31,12 @@ var fruit={
      material.laptopCost(5000,4);
      console.log(material.numbers + " " + material.name  +  " for KSH " + totalCost) ;
    
-    //function
-    // function add(a,b){
-    //     console.log(a+b);
+    // function
+    function add(a,b){
+        console.log(a+b);
    
-    // }
-    // add(5,8);
-    // add(2,10);
+    }
+    add(5,8);
+    add(2,10);
      
    
