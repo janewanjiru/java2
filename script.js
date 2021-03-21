@@ -32,11 +32,11 @@ var fruit={
      console.log(material.numbers + " " + material.name  +  " for KSH " + totalCost) ;
    
     //function
-    function add(a,b){
-        console.log(a+b);
+    // function add(a,b){
+    //     console.log(a+b);
    
-    }
-    add(5,8);
-    add(2,10);
+    // }
+    // add(5,8);
+    // add(2,10);
      
    
